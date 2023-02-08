@@ -2,8 +2,6 @@
 
 Hi, I'm Andrew and this is a collection of my notes. If you notice any mistakes (inevitable) please let me know at [aashtonnz@gmail.com](mailto:aashtonnz@gmail.com). Thanks!
 
-<img src="./ngc-290-hubble.jpg" width=200px style="margin: 20px 30px" />
-
 # Development
 
 # Physics
@@ -28,4 +26,4 @@ Hi, I'm Andrew and this is a collection of my notes. If you notice any mistakes 
 - [Github](https://github.com/aashtonnz)
 - [Goodreads](https://www.goodreads.com/user/show/161421717-andrew-ashton)
 - [Rate Your Music](https://rateyourmusic.com)
-- [Letterboxd](https://letterboxd.com/aashtonnz/) (film)
+- [Letterboxd](https://letterboxd.com/aashtonnz/) (film reviews)

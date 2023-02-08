@@ -2,9 +2,7 @@
 
 Hi, I'm Andrew and this is a collection of my notes. If you notice any mistakes (inevitable) please let me know at [aashtonnz@gmail.com](mailto:aashtonnz@gmail.com). Thanks!
 
-<div display="flex" align="center">
-    <img src="./the-little-prince.jpg" width=175 style="margin: 20px 0 0 0" />
-</div>
+<img src="./ngc-290-hubble.jpg" width=200px style="margin: 20px 30px" />
 
 # Development
 
